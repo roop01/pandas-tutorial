@@ -1,2 +1,2 @@
 # pandas-tutorial
-Learn Pandas library from data analysis.
+Tutorial on Pandas library for data analysis.
